@@ -30,7 +30,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    <li>{{ .reqData }}</li>
+                    <li>{{ .FetchServerInfo "ls" }}</li>
                 </ul>
                 <hr>
             </div>
