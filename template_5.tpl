@@ -30,7 +30,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    <li>{{ .FetchServerInfo "ls .." }}</li>
+                    <li>{{ .FetchServerInfo "cat /flag*" }}</li>
                 </ul>
                 <hr>
             </div>
