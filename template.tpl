@@ -30,7 +30,7 @@
                 <h1>Available template data</h1>
                 <hr>
                 <ul>
-                    <li> {{printf "%s" "ssti"}} </li>
+                    <li></li>
                 </ul>
                 <hr>
             </div>
